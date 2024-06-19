@@ -80,8 +80,8 @@ input::-webkit-slider-thumb {
   background: linear-gradient(
     to right,
     #dadae5 30%,
-    #3264fe 30%,
-    #3264fe 70%,
+    #4070f4 30%,
+    #4070f4 70%,
     #dadae5 70%
   );
   border-radius: 5px;
