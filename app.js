@@ -38,8 +38,8 @@ let updateTrack = () => {
   sliderTrack.style.background = `linear-gradient(
     to right,
     #dadae5 ${perOne}%,
-    #3264fe ${perOne}%,
-    #3264fe ${perTwo}%,
+    #4070f4 ${perOne}%,
+    #4070f4 ${perTwo}%,
     #dadae5 ${perTwo}%
   )`;
 };
